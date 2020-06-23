@@ -1,3 +1,3 @@
 package br.com.jonathas.minhalista.data
 
-data class Item (val name : String = "", val amount : Int = 0)
+data class Item (var name : String = "", var amount : Int = 0)
