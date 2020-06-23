@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MinhaLista</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="name">Nome</string>
+    <string name="write_name">Digite um nome</string>
+    <string name="amount">Quantidade</string>
+    <string name="write_amount">Digite a quantidade</string>
+</resources>
